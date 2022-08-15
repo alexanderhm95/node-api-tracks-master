@@ -5,8 +5,6 @@
     "engines": {
         "node": "16.16.0",
         "npm": "8.11.0"
-
-
     },
     "main": "app.js",
     "scripts": {
@@ -31,6 +29,7 @@
         "passport": "^0.6.0",
         "passport-jwt": "^4.0.0",
         "passport-local": "^1.0.0",
+        "redis": "^4.2.0",
         "response-time": "^2.3.2"
     }
 }
